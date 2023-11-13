@@ -1,2 +1,4 @@
 # CODSOFT
 Task Completion
+SIMPLE CALCULATOR OUTPUT
+![Screenshot 2023-11-13 114146](https://github.com/subha2414/CODSOFT/assets/131006773/51a7b27f-7f88-460e-9459-194c991d021d)
