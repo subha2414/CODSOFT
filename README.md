@@ -1,4 +1,7 @@
 # CODSOFT
 Task Completion
+
 SIMPLE CALCULATOR OUTPUT
 ![Screenshot 2023-11-13 114146](https://github.com/subha2414/CODSOFT/assets/131006773/51a7b27f-7f88-460e-9459-194c991d021d)
+PASSWORD GENERATION OUTPUT
+![Screenshot 2023-11-13 114017](https://github.com/subha2414/CODSOFT/assets/131006773/0cb13ad1-377c-412e-ab68-e25edeeaefb9)
